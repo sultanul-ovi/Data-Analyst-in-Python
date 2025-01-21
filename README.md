@@ -2,6 +2,8 @@
 
 It has 9 Courses and 5 Projects.
 
+---
+
 ## Course 01: Introduction to Python
 
 ## Course 02: Intermediate Python
@@ -20,6 +22,8 @@ It has 9 Courses and 5 Projects.
 
 ## Course 09: Hypothesis Testing in Python
 
+---
+
 ## Project 01: Investigating Netflix Movies
 
 ## Project 02: Exploring NYC Public School Test Result Scores
@@ -30,6 +34,10 @@ It has 9 Courses and 5 Projects.
 
 ## Project 05: Hypothesis Testing with Men's and Women's Soccer Matches
 
+---
+
 ## Skill Assessment 01:
 
 ## Skill Assessment 02:
+
+---
