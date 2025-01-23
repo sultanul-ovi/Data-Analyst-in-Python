@@ -64,3 +64,6 @@ Learn to draw conclusions from limited data using Python and statistics. This co
 ## Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's!
 
 ---
+
+Feel free to explore the solutions and contribute to the repository. Thanks
+
