@@ -57,11 +57,11 @@ Learn to draw conclusions from limited data using Python and statistics. This co
 
 ## Course 09: Hypothesis Testing in Python
 
-## Learn how and when to use common hypothesis tests like t-tests, proportion tests, and chi-square tests in Python.
+Learn how and when to use common hypothesis tests like t-tests, proportion tests, and chi-square tests in Python.
 
 ## Project 05: Hypothesis Testing with Men's and Women's Soccer Matches
 
-## Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's!
+Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's!
 
 ---
 
