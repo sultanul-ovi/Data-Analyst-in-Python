@@ -5,7 +5,7 @@
 ## Course 01: Introduction to Python
 
 Master the basics of data analysis with Python in just four hours. This online course will introduce the Python interface and explore popular packages.
-![](Course_01/c1_certificate.jpg)
+![](Certificates/c1_certificate.jpg)
 
 ## Course 02: Intermediate Python
 
