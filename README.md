@@ -6,7 +6,7 @@
 
 Master the basics of data analysis with Python in just four hours. This online course will introduce the Python interface and explore popular packages.
 
-![](Certificates/c1_certificate.jpg)
+![certificate](Certificates/c1_certificate.jpg)
 
 ## Course 02: Intermediate Python (4 hours)
 
